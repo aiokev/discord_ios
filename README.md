@@ -15,7 +15,7 @@
   <h2 align="center">Discord-iOS</h3>
 
   <p align="center">
-    Make your bot appear on mobile.
+    Make your bot have the discord online from a mobile device status.
   </p>
 </div>
 
