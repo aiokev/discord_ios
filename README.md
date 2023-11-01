@@ -22,7 +22,7 @@
 ---------------------------------------
 
 ```
-pip install -U git+https://github.com/keptz/discord_ios/
+pip install -U git+https://github.com/aiokev/discord_ios/
 ```
 
 ```py
