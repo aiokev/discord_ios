@@ -8,8 +8,8 @@ setup(
     license="MIT License",
     description="Make your discord.py bots appear as if they are on a phone.",
     keywords="discord.py, discord ios, discord ios status, discord bot mobile status, discord mobile bot status",
-    url="https://github.com/keptz/discord_ios",
-    author="keptz",
+    url="https://github.com/aiokev/discord_ios",
+    author="aiokev",
     author_email="",
     classifiers=[
         "Programming Language :: Python",
